@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Exercici6GomNar</string>
+    <string name="app_name">Exercici 6</string>
+    <string name="mainTitle">Aplicació</string>
+    <string name="txtBtnSortida">Sortir</string>
+    <string name="txtBtnSobre">Info APP</string>
+    <string name="txtBtnConfig">Configurar</string>
+    <string name="txtBtnJugar">Jugar</string>
 </resources>
