@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Ejercicio 6</string>
-    <string name="mainTitle">Aplicación</string>
-    <string name="txtBtnSortida">Salir</string>
+    <string name="mainTitle">Aplicació</string>
+    <string name="txtBtnSortida">Sortir</string>
     <string name="txtBtnSobre">Info APP</string>
     <string name="txtBtnConfig">Configurar</string>
     <string name="txtBtnJugar">Jugar</string>

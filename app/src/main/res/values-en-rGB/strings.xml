@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise 6</string>
+    <string name="mainTitle">Application</string>
+    <string name="txtBtnSortida">Exit</string>
+    <string name="txtBtnSobre">About US</string>
+    <string name="txtBtnConfig">Settings</string>
+    <string name="txtBtnJugar">Play</string>
+</resources>
