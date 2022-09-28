@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_header_main">50dp</dimen>
+    <dimen name="space_text_btn">70dp</dimen>
+</resources>

@@ -14,7 +14,7 @@
         android:textSize="30dp"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="@dimen/text_header_main"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textMain"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="@dimen/space_text_btn"
         android:layout_marginLeft="110dp"
         android:layout_marginRight="110dp"
         tools:ignore="MissingConstraints" />

@@ -13,4 +13,20 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.Exercici6GomNar.titols">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:layout_marginBottom">@dimen/text_header_main</item>
+        <item name="android:layout_marginTop">@dimen/text_header_main</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="botons">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:backgroundTint">@color/grey</item>
+        <item name="android:textColor">@color/lila</item>
+        <item name="android:layout_marginBottom">@dimen/space_text_btn</item>
+    </style>
 </resources>
